@@ -7,29 +7,29 @@ table#tlayout {
 }
 
 @font-face {
-	font-family: Optima;
-	src: url("fonts/Optima-Regular.ttf") format('truetype');
+	font-family: Proxima-Nova;
+	src: url("fonts/Proxima-Nova-Regular.otf") format('truetype');
 }
 @font-face {
-	font-family: Optima;
-	src: url('fonts/Optima-Bold.ttf') format('truetype');
+	font-family: Proxima-Nova;
+	src: url('fonts/Proxima-Nova-Bold.otf') format('truetype');
 	font-weight: bold;
 }
 @font-face {
-	font-family: Optima;
-	src: url('fonts/Optima-Italic.ttf') format('truetype');
+	font-family: Proxima-Nova;
+	src: url('fonts/Proxima-Nova-Italic.otf') format('truetype');
 	font-style: italic;
 }
 @font-face {
-	font-family: Optima;
-	src: url('fonts/Optima-BoldItalic.ttf') format('truetype');
+	font-family: Proxima-Nova;
+	src: url('fonts/Proxima-Nova-BoldItalic.otf') format('truetype');
 	font-weight: bold;
 	font-style: italic;
 }
 
 body {
 	background: white;
-	font-family: Optima, sans-serif;
+	font-family: Proxima-Nova, sans-serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
