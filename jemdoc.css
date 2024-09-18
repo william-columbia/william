@@ -30,6 +30,7 @@ table#tlayout {
 body {
 	background: white;
 	font-family: Proxima-Nova, sans-serif;
+	font-size:120%;
 	padding-bottom: 8px;
 	margin: 0;
 }
